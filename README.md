@@ -17,7 +17,6 @@ Este projeto foi desenvolvido durante o evento NLW da Rocketseat.
 - **Pages/Rotas**: Páginas principais em `src/pages` usando React Router.
 - **Hooks e React Query**: Gestão de dados assíncronos com React Query.
 - **Estilos utilitários**: TailwindCSS para estilos rápidos e consistentes.
-- **Helpers/Utils**: Funções utilitárias em `src/lib`.
 
 ## Estrutura do Projeto
 ```
@@ -52,6 +51,7 @@ web/
 - Certifica-te que tens o Node.js instalado.
 - O projeto utiliza o [Biome](https://biomejs.dev/) para lint e organização de imports (ver `.vscode/settings.json`).
 - Algumas funcionalidades podem depender de uma API backend.
+- Repositório da [API](https://github.com/renatomachadoo/NLW-Agents-backend)
 
 ---
 Desenvolvido com 💜 durante o NLW da Rocketseat. 
