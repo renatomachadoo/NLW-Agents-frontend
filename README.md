@@ -20,7 +20,7 @@ Este projeto foi desenvolvido durante o evento NLW da Rocketseat.
 
 ## Estrutura do Projeto
 ```
-web/
+NLW-Agents-frontend/
 ├── public/                # Assets públicos
 ├── src/
 │   ├── app.tsx            # Componente principal da aplicação
@@ -35,7 +35,7 @@ web/
 1. **Clonar o repositório:**
    ```bash
    git clone https://github.com/renatomachadoo/NLW-Agents-frontend
-   cd web
+   cd NLW-Agents-frontend
    ```
 2. **Instalar dependências:**
    ```bash
