@@ -27,20 +27,15 @@ web/
 │   ├── app.tsx            # Componente principal da aplicação
 │   ├── main.tsx           # Ponto de entrada
 │   ├── index.css          # Estilos globais (TailwindCSS)
-│   ├── components/
-│   │   └── ui/            # Componentes reutilizáveis (ex: Button)
-│   ├── pages/             # Páginas principais (ex: CreateRoom, Room)
-│   └── lib/               # Funções utilitárias
-├── package.json           # Dependências e scripts
-├── tsconfig*.json         # Configurações TypeScript
-├── vite.config.ts         # Configuração do Vite
-└── README.md              # Este ficheiro
+│   ├── components/        # Componentes reutilizáveis
+│   ├── pages/             # Páginas da aplicação
+│   └── lib/               # Librarias
 ```
 
 ## Instruções de Setup
 1. **Clonar o repositório:**
    ```bash
-   git clone <url-do-repo>
+   git clone https://github.com/renatomachadoo/NLW-Agents-frontend
    cd web
    ```
 2. **Instalar dependências:**
